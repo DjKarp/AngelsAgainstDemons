@@ -16,14 +16,14 @@
 ## ▶️ Видео демонстрация
 
 <p align="Left">  
-<b>Видео на RuTube</b><br/>
+<b>Видео на RuTube_(откроется в этой вкладке)_</b><br/>
 </p>
 <p align="center">
 https://rutube.ru/video/7ae0f0f41b9487b0b97c4350095a9699/
 </p>
 
 <p align="Left">  
-<b>Или посмотреть на Google Drive</b><br/>
+<b>Или посмотреть на Google Drive_(откроется в этой вкладке)_</b><br/>
 </p>
 <p align="center">
 https://drive.google.com/file/d/1BV4pv7jxlYGK5Ry5ZRsny8XoWR66gSau/view?usp=sharing
