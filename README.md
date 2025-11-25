@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1vqBA4wNsdu4Z0Lssr4Ae4z5l24s51eym/view?usp=shari
 
 
 Склонируй проект:
-git clone https://github.com/DjKarp/DroneHarvesting.git
+git clone https://github.com/DjKarp/AngelsAgainstDemons.git
 
 Открыть в Unity 2022.3+ (URP)
 Сцена запуска: Bootstrap, Gameplay
